@@ -26,12 +26,12 @@
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/f6d3e33d-1306-4490-85b1-b523b88193bb)
       - gr로 시작하고 중간글자가 a또는 e또는 d가 있고 y로 끝나는 것을 찾음
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/438e31b3-6278-4b10-a448-ead0deecdf2c)
-      - 💡위의 두 이미지는 같다
+      - ===================================💡위의 두 이미지는 같다=============================================
 
       - gr로 시작하고 중간글자가 a~g가 되고 y로 끝나는 것을 찾음 
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/20f1a820-f6f0-44e9-b00a-c6089478f61d)
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/ef8ee9c3-c96d-4f94-b2c9-528b390f4a5f)
-      - 💡위의 두 이미지는 같다
+      - ===================================💡위의 두 이미지는 같다=============================================
 
 
       - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐 때 [^a] -> a가 아닐때
