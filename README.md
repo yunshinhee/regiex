@@ -16,6 +16,7 @@
       - | : 또는
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/4e80315b-28f3-4ac1-b607-14cad6cebebf)
       - () : 그룹
+      - 1번째 그룹 you또는 to를 찾고 2번째 그룹에서는 the를 찾음
       -![image](https://github.com/yunshinhee/regiex/assets/145514638/2631a3cb-3167-434b-8188-a921a7d57c77)
       - Fr로 시작하고 중간 글자가 e 가 되고  nch로 끝나는것을 찾음
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/80053e4f-aaf9-4e54-ac46-f7cba39d6fcd)
