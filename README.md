@@ -16,7 +16,8 @@
       - | : 또는
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/4e80315b-28f3-4ac1-b607-14cad6cebebf)
       - () : 그룹
-      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/7f5bce21-d7af-4186-aa7a-fea202191362)
+      -![image](https://github.com/yunshinhee/regiex/assets/145514638/2631a3cb-3167-434b-8188-a921a7d57c77)
+
 
       - [] : 문자셋, 괄호안의 어떤 문자든
       - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐 때 [^a] -> a가 아닐때
