@@ -37,6 +37,8 @@
       - Fr로 시작하고 중간 글자가 e 가 되고  nch로 끝나는것을 찾음
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/80053e4f-aaf9-4e54-ac46-f7cba39d6fcd)
       - 찾아는 지지만 그룹으로 만들고 싶지 않다면 사용
+      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/05dfe757-e717-4a3b-8487-c8cc135eee49)
+
      
 
       
