@@ -17,6 +17,8 @@
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/4e80315b-28f3-4ac1-b607-14cad6cebebf)
       - () : 그룹
       -![image](https://github.com/yunshinhee/regiex/assets/145514638/2631a3cb-3167-434b-8188-a921a7d57c77)
+      - Fr로 시작하고 중간 글자가 e 가 되고  nch로 끝나는것을 찾음
+      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/80053e4f-aaf9-4e54-ac46-f7cba39d6fcd)
 
       - [] : 문자셋, 괄호안의 어떤 문자든
       - [ead] 대괄호 안에 있는 글자중 하나라도 만족하는 것을 찾음
@@ -34,8 +36,7 @@
       - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐 때 [^a] -> a가 아닐때
       - (?) : 찾지만 기억하지는 않음
      
-      - Fr로 시작하고 중간 글자가 e 가 되고  nch로 끝나는것을 찾음
-      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/80053e4f-aaf9-4e54-ac46-f7cba39d6fcd)
+
       - 찾아는 지지만 그룹으로 만들고 싶지 않다면 사용
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/05dfe757-e717-4a3b-8487-c8cc135eee49)
 
