@@ -1,4 +1,4 @@
-![image](https://github.com/yunshinhee/regiex/assets/145514638/987e9ed8-fe84-4e6d-bd91-e5d6d474152c)![image](https://github.com/yunshinhee/regiex/assets/145514638/39f64dd1-75fd-4b56-8b98-dfcbccbdbd88)# 정규표현식
+# 정규표현식
 # /regiex/ ==> Regular expression 의 약자
 
 #언제 사용하는가?
