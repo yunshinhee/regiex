@@ -44,7 +44,7 @@
      
    2) 제한하기 위해 사용하는
       -  ? : 없거나 있거나(zero or one)
-      -  * : 없거나 있거나 많거나(zero or more)
+      -  *＊ : 없거나 있거나 많거나(zero or more)
       -  + : 하나 또는 많거나(one or more)
       -  {n} : n번 반복
       -  {min,} : 최소
