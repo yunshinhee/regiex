@@ -58,11 +58,11 @@
         ![image](https://github.com/yunshinhee/regiex/assets/145514638/f991e5d0-2686-4e75-850f-f82a5439f7f6)
 
       - 🚩 {min,} : 최소
-        최소 3번인 것을 찾음
+      -최소 3번 반복되는 것을 찾음
         ![image](https://github.com/yunshinhee/regiex/assets/145514638/0cb0472b-8ad5-4897-9440-660a08b105fc)
 
       - 🚩 {min,max} : 최소 그리고 최대
-        최소 3번 최대 5번인 것을 찾음
+      -최소 3번반복, 최대 5번 반복되는 것을 찾음
         ![image](https://github.com/yunshinhee/regiex/assets/145514638/11bf9a0f-e03b-4b69-a112-dd69e563759c)
 
    3) 경계에 대한
