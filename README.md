@@ -43,9 +43,16 @@
        ![image](https://github.com/yunshinhee/regiex/assets/145514638/0dad4b6d-e63a-4095-91ee-829b99ae4882)
      
    2) 제한하기 위해 사용하는
-      -  ? : 없거나 있거나(zero or one)
-      - ＊ : 없거나 있거나 많거나(zero or more)
-      -  + : 하나 또는 많거나(one or more)
+      - 🚩 ? : 없거나 있거나(zero or one)
+        ![image](https://github.com/yunshinhee/regiex/assets/145514638/37547aa1-7404-447f-a633-65aeede9e088)
+
+      - 🚩＊ : 없거나 있거나 많거나(zero or more)
+        ![image](https://github.com/yunshinhee/regiex/assets/145514638/12f1a079-9db3-4f88-a9ef-eadca8953f36)
+
+      - 🚩 + : 하나 또는 많거나(one or more)
+      - 하나 또는 많거나 이니까 th는 포함 안됨 
+         ![image](https://github.com/yunshinhee/regiex/assets/145514638/9d304a92-4e59-4c79-96b8-edd4a5f25f3d)
+
       -  {n} : n번 반복
       -  {min,} : 최소
       -  {min,max} : 최소 그리고 최대
