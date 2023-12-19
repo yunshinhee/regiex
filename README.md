@@ -43,12 +43,12 @@
        ![image](https://github.com/yunshinhee/regiex/assets/145514638/0dad4b6d-e63a-4095-91ee-829b99ae4882)
      
    2) 제한하기 위해 사용하는
-      - 🚩 ? : 없거나 있거나(zero or one)
-      - 🚩 * : 없거나 있거나 많거나(zero or more)
-      - 🚩 + : 하나 또는 많거나(one or more)
-      - 🚩 {n} : n번 반복
-      - 🚩 {min,} : 최소
-      - 🚩 {min,max} : 최소 그리고 최대
+      -  ? : 없거나 있거나(zero or one)
+      -  * : 없거나 있거나 많거나(zero or more)
+      -  + : 하나 또는 많거나(one or more)
+      -  {n} : n번 반복
+      -  {min,} : 최소
+      -  {min,max} : 최소 그리고 최대
    3) 경계에 대한
       - \b : 단어경계 
       - \B : 단어경계가 아님  
