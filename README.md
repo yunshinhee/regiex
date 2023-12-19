@@ -12,7 +12,7 @@
 # 문법
    1) Groups and ranges
       - 🚩 | : 또는
-      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/4e80315b-28f3-4ac1-b607-14cad6cebebf)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/4e80315b-28f3-4ac1-b607-14cad6cebebf)
       - 🚩 () : 그룹
       - 1번째 그룹 you또는 to를 찾고 2번째 그룹에서는 the를 찾음
       -![image](https://github.com/yunshinhee/regiex/assets/145514638/2631a3cb-3167-434b-8188-a921a7d57c77)
@@ -44,12 +44,12 @@
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/0dad4b6d-e63a-4095-91ee-829b99ae4882)
      
    2) 제한하기 위해 사용하는
-      -🚩 ? : 없거나 있거나(zero or one)
-      -🚩 * : 없거나 있거나 많거나(zero or more)
-      -🚩 + : 하나 또는 많거나(one or more)
-      -🚩 {n} : n번 반복
-      -🚩 {min,} : 최소
-      -🚩 {min,max} : 최소 그리고 최대
+      - 🚩 ? : 없거나 있거나(zero or one)
+      - 🚩 * : 없거나 있거나 많거나(zero or more)
+      - 🚩 + : 하나 또는 많거나(one or more)
+      - 🚩 {n} : n번 반복
+      - 🚩 {min,} : 최소
+      - 🚩 {min,max} : 최소 그리고 최대
    3) 경계에 대한
       - \b : 단어경계 
       - \B : 단어경계가 아님  
