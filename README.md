@@ -15,33 +15,33 @@
        ![image](https://github.com/yunshinhee/regiex/assets/145514638/4e80315b-28f3-4ac1-b607-14cad6cebebf)
       - 🚩 () : 그룹
       - 1번째 그룹 you또는 to를 찾고 2번째 그룹에서는 the를 찾음
-      -![image](https://github.com/yunshinhee/regiex/assets/145514638/2631a3cb-3167-434b-8188-a921a7d57c77)
+      ![image](https://github.com/yunshinhee/regiex/assets/145514638/2631a3cb-3167-434b-8188-a921a7d57c77)
       - Fr로 시작하고 중간 글자가 e 가 되고  nch로 끝나는것을 찾음
-      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/80053e4f-aaf9-4e54-ac46-f7cba39d6fcd)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/80053e4f-aaf9-4e54-ac46-f7cba39d6fcd)
 
       - 🚩 [] : 문자셋, 괄호안의 어떤 문자든
       - [ead] 대괄호 안에 있는 글자중 하나라도 만족하는 것을 찾음
-      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/f6d3e33d-1306-4490-85b1-b523b88193bb)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/f6d3e33d-1306-4490-85b1-b523b88193bb)
       - gr로 시작하고 중간글자가 a또는 e또는 d가 있고 y로 끝나는 것을 찾음
-      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/438e31b3-6278-4b10-a448-ead0deecdf2c)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/438e31b3-6278-4b10-a448-ead0deecdf2c)
       - =========================💡위의 두 이미지는 같다
 
       - gr로 시작하고 중간글자가 a~g가 되고 y로 끝나는 것을 찾음 
-      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/20f1a820-f6f0-44e9-b00a-c6089478f61d)
-      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/ef8ee9c3-c96d-4f94-b2c9-528b390f4a5f)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/20f1a820-f6f0-44e9-b00a-c6089478f61d)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/ef8ee9c3-c96d-4f94-b2c9-528b390f4a5f)
       - =========================💡위의 두 이미지는 같다
 
       - 🚩 [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐 때 [^a] -> a가 아닐때
       - a 부터 z 까지, A부터 Z까지 , 0부터 9까지가 아닌것을 찾음 (띄어쓰기 포함)
-      -![image](https://github.com/yunshinhee/regiex/assets/145514638/f5ea4e5a-b4ed-4fa1-99d0-d2a4c1dcf983)
+      ![image](https://github.com/yunshinhee/regiex/assets/145514638/f5ea4e5a-b4ed-4fa1-99d0-d2a4c1dcf983)
 
       - 🚩 (?) : 찾지만 기억하지는 않음
      
       - 찾아는 지지만 그룹으로 만들고 싶지 않다면 사용
-      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/05dfe757-e717-4a3b-8487-c8cc135eee49)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/05dfe757-e717-4a3b-8487-c8cc135eee49)
        
       - a 부터 z 까지, A부터 Z까지 , 0부터 9까지를 찾음  (특수기호 제외)
-      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/0dad4b6d-e63a-4095-91ee-829b99ae4882)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/0dad4b6d-e63a-4095-91ee-829b99ae4882)
      
    2) 제한하기 위해 사용하는
       - 🚩 ? : 없거나 있거나(zero or one)
