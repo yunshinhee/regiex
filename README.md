@@ -38,6 +38,10 @@
 
       - 찾아는 지지만 그룹으로 만들고 싶지 않다면 사용
       - ![image](https://github.com/yunshinhee/regiex/assets/145514638/05dfe757-e717-4a3b-8487-c8cc135eee49)
+       
+      # a 부터 z 까지, A부터 Z까지 , 0부터 9까지를 찾음  (특수기호 제외)
+      - ![image](https://github.com/yunshinhee/regiex/assets/145514638/0dad4b6d-e63a-4095-91ee-829b99ae4882)
+
 
      
 
