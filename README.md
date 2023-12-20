@@ -83,16 +83,29 @@
     
         
    4) 특징을 이용하는 방법
-      - 🚩 \ : 특수문자가 아닌 문자를 찾을 때(특수문자.을 찾고자 할 때)
+      - 🚩 \ : 특수문자가 아닌 문자를 찾을 때
+      - 특수문자.을 찾고자 할 때
         ![image](https://github.com/yunshinhee/regiex/assets/145514638/fc154144-2eb3-4091-81c6-6c75a4d8dfc0)
+      - 특수문자{} []을 찾고자 할 때
+        ![image](https://github.com/yunshinhee/regiex/assets/145514638/fb59176c-d30e-4dad-8649-a54a6e98cf19)
       - 🚩 . : 어떤/모든 글자 숫자,특수문자 포함 (줄바꿈/엔터키 문자 제외)
         ![image](https://github.com/yunshinhee/regiex/assets/145514638/6dec54f3-a486-4974-b06b-70e2417942a1) 
-      - \d : 숫자(digit)
-      - \D : 숫자가 아님(digit)
-      - \w : 문자(Word)
-      - \W : 문자가 아님(Word)
-      - \s : 공백(space)
-      - \S : 공백이 아님(space)
+      - 🚩 \d : 숫자(digit)
+        ![image](https://github.com/yunshinhee/regiex/assets/145514638/104d5dee-d964-4ccc-a17c-2f334d6ee05f)
+      - 🚩 \D : 숫자가 아님(digit)
+      - 숫자가 아닌 모든 것 
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/9b081d8e-0ca4-46ac-8439-46173e790440)
+      - 🚩 \w : 문자(Word)
+      - 문자(글자,숫자)만 찾음(띄어쓰기,특수문자 제외) 
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/bc2836bf-bbba-4ca2-baaf-f23fe7835ab3)
+      - 🚩 \W : 문자가 아님(Word)
+      - 문자가 아닌 모든 것을 찾음 (띄어쓰기,특수문자 찾기)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/973f441b-e666-4d74-93e2-e3090f82f484)
+      - 🚩 \s : 공백(space)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/71c65e8b-6f05-4659-957d-1b7420e283f8)
+      - 🚩 \S : 공백이 아님(space)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/558f7d08-1a49-499c-a71e-a87c628d5442)
+
 
 
      
