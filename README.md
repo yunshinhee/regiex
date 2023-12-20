@@ -66,7 +66,14 @@
         ![image](https://github.com/yunshinhee/regiex/assets/145514638/11bf9a0f-e03b-4b69-a112-dd69e563759c)
 
    3) 경계에 대한
-      - \b : 단어경계 
+      - \b : 단어경계
+      - ->/\bOf/ --> Of로 시작하는 단어(대문자O)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/41ae9eb9-18db-4b6c-bc04-420d067b2c76)
+       - ->/\bOf/ --> Of로 끝나는 단어(대문자O)
+       ![image](https://github.com/yunshinhee/regiex/assets/145514638/bcb4f0f4-d525-43e4-8c8f-36aeb51fb51a)
+
+
+
       - \B : 단어경계가 아님  
       - ^ : 문장의 시작  
       - $ : 문장의 끝
